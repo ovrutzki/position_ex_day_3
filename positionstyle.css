@@ -1,0 +1,32 @@
+body{
+
+}
+.box_continer{
+    border: 3px dashed black;
+    width:fit-content;
+    height: 100px;
+    position: relative;
+    top: 50px;
+    
+    
+}
+.box{
+    background-color: red;
+    text-align: center;
+    width:100px;
+    height: 100px;
+    border-radius: 10%;
+    display: inline-block;
+    }
+#two{
+    position: relative;
+    top: 40px;
+    left: 40px;
+}
+#absolute{
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
+
+
